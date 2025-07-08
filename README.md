@@ -1,4 +1,4 @@
-# Tennis Match Analysis 🎾
+# Tennis Match Analysis 
 
 Este proyecto aplica visión por computador para analizar partidos de tenis usando detección y seguimiento de objetos con YOLOv8.
 
