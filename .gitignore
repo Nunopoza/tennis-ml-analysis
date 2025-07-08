@@ -1,6 +1,27 @@
+# Entorno virtual
 venv/
+
+# Archivos temporales de Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+
+# Pesos del modelo y checkpoints
+*.pt
+runs/
+
+# Datos descargados o cacheados
+*.cache
+*.log
+*.zip
+*.mp4
+
+# Roboflow y otros datasets
+tennis-objects-1/
+data/raw/
+data/processed/
+
+# Otros
 .DS_Store
-data/
+
 
